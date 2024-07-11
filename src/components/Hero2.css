@@ -1,0 +1,17 @@
+.Hero {
+  background: linear-gradient(to bottom, #0a0c2c80 3rem, transparent 10rem),
+    url(../../images/hero7.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: fit-content;
+  min-height: 100vh;
+}
+
+.Hero__Header {
+}
+
+.Hero__Header > h1 {
+}
+.Hero__Header > h3 {
+}

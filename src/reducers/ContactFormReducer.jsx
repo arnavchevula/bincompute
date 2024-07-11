@@ -1,0 +1,10 @@
+const contactFormReducer = (state, action) => {
+  switch (action.type) {
+    case "HANDLE INPUT TEXT":
+      return { ...state, [action.field]: action.payload };
+    default:
+      return state;
+  }
+};
+
+export default contactFormReducer;

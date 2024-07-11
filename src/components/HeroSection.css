@@ -1,0 +1,29 @@
+.Box__Container {
+  color: #fff;
+  backdrop-filter: blur(5px);
+  /* border-radius: 0.5rem; */
+  max-width: 50%;
+  align-self: center;
+  padding: 30px;
+  margin-left: 5%;
+  border-left: 1px solid white;
+}
+.Header__Text {
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+  font-size: xxx-large;
+}
+.Button__Hero {
+  margin-top: 25px;
+  border: 1px solid white;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: lightpink;
+  padding: 10px 30px;
+  border-radius: 1.5rem;
+}
+.Hero__Text {
+  line-height: 1.4;
+  font-size: large;
+}

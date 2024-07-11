@@ -1,0 +1,19 @@
+.Footer__Wrapper {
+  background-color: rgb(72 0 119 / 50%);
+  backdrop-filter: blur(22px);
+
+  color: #ffffff;
+}
+.Social__List {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  line-height: 2.5;
+}
+.Icon__Footer {
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 50%;
+  display: flex;
+}

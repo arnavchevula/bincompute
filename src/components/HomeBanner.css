@@ -1,0 +1,37 @@
+.Banner__Container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: stretch;
+  margin-top: 10%;
+}
+.Banner__Panel {
+  border-radius: 2rem;
+  padding: 2% 1%;
+  max-width: 20%;
+  min-height: 25rem;
+  margin-bottom: 5%;
+  color: white;
+}
+.Banner__Panel > svg {
+  font-size: xxx-large;
+}
+.Banner__Panel > div {
+  margin-top: 15%;
+}
+.Banner__Panel > div > h1 {
+  font-size: xxx-large;
+}
+.Banner__Panel > div > p {
+  font-size: medium;
+  line-height: 1.5;
+  margin-top: 5%;
+}
+.Banner__Panel:nth-child(1) {
+  background-color: #923131;
+}
+.Banner__Panel:nth-child(2) {
+  background-color: #941818;
+}
+.Banner__Panel:nth-child(3) {
+  background-color: #920000;
+}
