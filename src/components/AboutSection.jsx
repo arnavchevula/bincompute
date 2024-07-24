@@ -64,7 +64,7 @@ function AboutSection() {
             <p>Nagarjun Chevula, CEO</p>
           </div>
           <div>
-            <img className="Avatar" src={"../src/assets/profile.jpg"} />
+            <img className="Avatar" src={"/images/profile.jpg"} />
             <p>Arnav Chevula, CTO</p>
           </div>
         </div>
@@ -72,10 +72,10 @@ function AboutSection() {
       <section className="Clients__Container" id="clients">
         <h1 className="Client__Header">Trusted By: </h1>
         <div className="Client__List">
-          <img className="Client__Image" src="../src/assets/njcourts3.jpeg" />
+          <img className="Client__Image" src="/images/njcourts3.jpeg" />
 
-          <img className="Client__Image" src="../src/assets/pwclogo.png" />
-          <img className="Client__Image" src="../src/assets/ibmlogo2.svg" />
+          <img className="Client__Image" src="/images/pwclogo.png" />
+          <img className="Client__Image" src="/images/ibmlogo2.svg" />
 
           <img
             className="Client__Image"
