@@ -60,7 +60,7 @@ function AboutSection() {
         </div>
         <div className="Avatar__Container">
           <div>
-            <img className="Avatar" src={"/images/NAGS.JPG"} />
+            <img className="Avatar" src={"/images/Nags.JPG"} />
             <p>Nagarjun Chevula, CEO</p>
           </div>
           <div>
