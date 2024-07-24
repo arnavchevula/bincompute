@@ -74,4 +74,3 @@ purple:
 <a href="https://www.freepik.com/search?format=search&last_filter=query&last_value=business&query=business&selection=1&type=vector">Image by pikisuperstar on Freepik</a>
 
 <a href="https://www.freepik.com/free-vector/hand-drawn-business-communication-illustration_20125871.htm#fromView=search&page=2&position=4&uuid=176c1ae6-630f-4a66-b34a-b69fe6e6951c">Image by freepik</a>
-git: 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
